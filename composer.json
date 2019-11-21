@@ -17,7 +17,7 @@
     "phpseclib/phpseclib": "dev-master#27370df",
     "rollbar/rollbar": "dev-master",
     "danog/madelineproto": "^3.1",
-    "php": "=^5.6",
+    "php": "=>5.6",
     "ext-PDO": "*",
     "ext-pdo_mysql": "*",
     "ext-mysqli": "*",
